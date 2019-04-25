@@ -1,5 +1,5 @@
 {
-    "name": "liip/serializer",
+    "name": "t1l3/serializer",
     "description": "High performance serializer that works with code generated helpers to achieve high throughput.",
     "type": "library",
     "license": "MIT",
